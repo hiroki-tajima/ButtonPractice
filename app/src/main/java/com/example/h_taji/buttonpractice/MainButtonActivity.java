@@ -37,7 +37,7 @@ public class MainButtonActivity extends AppCompatActivity {
                 // flagがfalseの時
                 else {
                     //textView.setText(R.string.world);
-                    textView.setText("World");
+                    textView.setText("New World");
                     flag = true;
                 }
             }
