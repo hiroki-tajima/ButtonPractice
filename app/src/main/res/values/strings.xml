@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ボタン練習</string>
     <string name="btn_btn">ボタン</string>
+    <string name="hello">HELLO</string>
+    <string name="new_world">NEW WORLD</string>
+    <string name="view_text">Hello World !!</string>
+    <string name="back_button">戻すボタン</string>
 </resources>
